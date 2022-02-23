@@ -1,2 +1,2 @@
 # Project-Node-Express
-A small API project with NodeJs and Express.
+A small API project with NodeJS and Express.
